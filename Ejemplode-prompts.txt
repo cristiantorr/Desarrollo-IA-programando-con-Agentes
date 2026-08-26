@@ -1,0 +1,16 @@
+Ejemplo de promt bueno
+
+1 Rol
+Actua como un desarrollador backend Senior especializado en software
+
+2 Contexto
+Estoy construyendo una Api Rest para un e-commerce usando Python 3.14
+
+3 Tarea
+Necesito que escribas un endpoint para el login de usuarios
+
+4 Restricciones
+El endpoint debe estar seco con el framework FastAPI. Debe recibir yn Gail y una contraseña validar las contraseñas simulando una consulta a una base de datos Postgresql y Devolver un t JWT. Aseguarte de incluir manejo de errores (por ejemplo devolver un error 401 no credentials fallan) y usa contraseñas hacheadas con bcrypt.
+
+5 Formato
+Devuélveme unicamente el bloque de código bien comentado, sin explicaciones previas ni introducciones.
